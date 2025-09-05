@@ -16,7 +16,7 @@ editPost:
 showToc: true
 disableAnchoredHeadings: false
 
-linkedin_url: [LinkedIn} (https://www.linkedin.com/in/holdenengelhardt/)
+linkedin_url: [LinkedIn] (https://www.linkedin.com/in/holdenengelhardt/)
 github_url: [GitHub] (https://github.com/HoldenEngelhardt)
 email_address: "hme226@lehigh.edu"
 cv_url: "XX"
