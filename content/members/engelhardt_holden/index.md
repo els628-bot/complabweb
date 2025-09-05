@@ -4,7 +4,7 @@ date: 2024-09-10
 lastmod: 2024-09-08
 tags: ["math","stats","infectious diseases"]
 author: "Holden Engelhardt"
-description: "Background on Holden Engelhardt" 
+description: "Holden is a Biology and Population Health dual major in the Department of Biological Science and Department of Population Health at Lehigh University. Holden's research focuses on forcasting, and infectious disease modeling. Holden's long-term goal is to persue a Masters in Bioinformatics or Computational Biology." 
 summary: "XXXX"
 cover:
     image: "XX"
