@@ -30,6 +30,8 @@ Garrik's long-term goal is to establish a career in academia.
 **Highlighted works**   
 {{< paperlink url="https://www.sciencedirect.com/science/article/pii/S2589750025000561" text="When data disappear: public health pays as US policy strays" >}}
 
+{{< paperlink url="https://arxiv.org/abs/2508.15623" text="Beyond Traditional Surveillance: Harnessing Expert Knowledge for Public Health Forecasting" >}}
+
 
 {{< floating_share >}} 
 
