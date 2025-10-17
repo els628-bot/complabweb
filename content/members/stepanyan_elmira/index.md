@@ -11,15 +11,15 @@ cover:
     alt: ""
     relative: false
 editPost:
-    URL: "XX"
-    Text: "CV"
+    URL: "https://github.com/els628-bot/Resume"
+    Text: "Resume"
 showToc: true
 disableAnchoredHeadings: false
 
 linkedin_url: "www.linkedin.com/in/elmirastepanyan"
-github_url: "XXX"
-email_address: "XXX"
-cv_url: "XXX"
+github_url: "https://github.com/els628-bot"
+email_address: "els628@lehigh.edu"
+cv_url: "https://github.com/els628-bot/Resume"
 
 ---
 
